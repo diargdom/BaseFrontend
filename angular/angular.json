@@ -25,13 +25,7 @@
                 "input": "public"
               }
             ],
-            "styles": [
-              {
-                "input": "src/styles.css",
-                "bundleName": "styles-angular",
-                "inject": false
-              }
-            ]
+            "styles": ["src/styles.css"]
           },
           "configurations": {
             "production": {
